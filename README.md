@@ -3,4 +3,4 @@
 
  - Credit Card Fraud Detection
  - Mercari Price recommendation Challenge
- - Market basket Analysis, RFM, CLV Prediction
+ - Marketing Analytics Analysis:- Market basket Analysis, RFM, CLV Prediction
