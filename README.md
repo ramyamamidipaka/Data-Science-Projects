@@ -8,3 +8,4 @@
  - Basic AB testing
  - Uplift Modelling for measuring Campaign lift
  - Affinity Propogation Algorithm for clusterng users
+ - Product decision 
