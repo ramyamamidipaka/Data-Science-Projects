@@ -10,3 +10,4 @@
  - Affinity Propogation Algorithm for clusterng users
  - Product decision 
  - Click Through Rate Prediction
+ - Market Channel attribution
